@@ -1,0 +1,7 @@
+{
+  "name": "AgriLens AI",
+  "description": "AI-Powered Crop Intelligence & Farm Decision Support Platform. From Data to Decision.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
